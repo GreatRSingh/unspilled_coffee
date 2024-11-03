@@ -23,6 +23,22 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+.container {
+    display: flex;
+    justify-content: center; /* centers horizontally */
+    align-items: center; /* centers vertically */
+    height: 100vh; /* full viewport height */
+}
+
+.centered-div {
+    width: 50%; /* or any desired width */
+}
+
+
+.nav {
+    
+}
+
 .nav {
     text-align: center;
     width: 95%;
